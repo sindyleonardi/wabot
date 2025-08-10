@@ -1,0 +1,27 @@
+{
+  "name": "whatsapp-superbot",
+  "version": "1.0.0",
+  "description": "Bot WhatsApp dengan fitur AI Chat, Generasi Gambar, Pencatatan Keuangan, Cuaca, dan Text-to-Speech.",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "whatsapp-web.js": "^1.20.0",
+    "qrcode-terminal": "^0.12.0",
+    "node-fetch": "^3.3.2",
+    "google-tts-api": "^0.1.1",
+    "dotenv": "^16.4.5"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "keywords": [
+    "whatsapp",
+    "bot",
+    "ai",
+    "automation"
+  ],
+  "author": "Developer Bot",
+  "license": "ISC"
+}
