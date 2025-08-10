@@ -16,5 +16,12 @@
   "engines": {
     "node": ">=16.0.0"
   },
+  "keywords": [
+    "whatsapp",
+    "bot",
+    "ai",
+    "automation"
+  ],
+  "author": "Developer Bot",
   "license": "ISC"
 }
